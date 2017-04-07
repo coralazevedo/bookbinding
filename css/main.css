@@ -1,0 +1,239 @@
+section {
+  padding-top: .5em;
+}
+
+h1 {
+  font-family: "AvenirNext-UltraLight", "Helvetica", sans-serif;
+  font-weight: normal;
+  font-size: 2.7em;
+  margin-bottom: .5em;
+
+}
+
+hr {
+    color: #b48f2e;
+}
+
+.chapter {
+  font-family: "Georgia", "TimesNewRomanPSMT", serif;
+  color: #000;
+  font-size: .7em;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family: "Georgia", "TimesNewRomanPSMT", serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #b48f2e;
+  font-size: 1.2em;
+  margin-top: 1.7em;
+  margin-bottom: .7em;
+}
+
+li {
+  font-family: "Georgia", "TimesNewRomanPSMT", serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  line-height: 1.5em;
+  color: #fff;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: line-through;
+}
+
+p {
+  font-family: "Georgia", "TimesNewRomanPSMT", serif;
+  font-weight: normal;
+  line-height: 1.5em;
+  margin-top: .7em;
+  margin-bottom: .7em;
+}
+
+body {
+  max-width: 60em;
+  padding: 0 2em;
+  margin: 0 auto;
+}
+
+nav {
+  background-color: #90a93c;
+  margin-left: 0;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+#endpapers-1 {
+  max-width: 50%;
+  height: auto;
+
+}
+
+#endpapers-2 {
+  max-width: 80%;
+  height: auto;
+}
+
+#sewing {
+  max-width: 80%;
+  height: auto;
+}
+
+#marking {
+  max-width: 75%;
+  height: auto;
+}
+
+#boards {
+  max-width: 70%;
+  height: auto;
+}
+
+#patterns-1 {
+  max-width: 75%;
+  height: auto;
+}
+
+#patterns-2 {
+  max-width: 80%;
+  height: auto;
+}
+
+#patterns-3 {
+  max-width: 80%;
+  height: auto;
+}
+
+#patterns-4 {
+  max-width: 80%;
+  height: auto;
+}
+
+#patterns-5 {
+  max-width: 100%;
+  height: auto;
+}
+
+#covering {
+  max-width: 80%;
+  height: auto;
+}
+
+#preparing {
+  max-width: 90%;
+  height: auto;
+}
+
+#glueing {
+  max-width: 90%;
+  height: auto;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:2em;
+  margin-bottom: 2em;
+}
+
+@media (min-width: 48em) {
+
+.illustration {
+  position: absolute;
+  right: 0;
+  height: auto;
+  padding-bottom: 50%;
+}
+
+section {
+    position: relative;
+    padding-right: 50%;
+}
+
+figure {
+
+}
+
+p {
+  font-size: 1.2em;
+}
+
+
+
+h3 {
+    margin-top: 3em;
+}
+
+#endpapers-1 {
+  max-width: 15em;
+  height: auto;
+}
+
+#endpapers-2 {
+  max-width: 30em;
+  height: auto;
+}
+
+#sewing {
+  max-width: 25em;
+  height: auto;
+}
+
+#marking {
+  max-width: 22em;
+  height: auto;
+}
+
+#boards {
+  max-width: 25em;
+  height: auto;
+}
+
+#patterns-1 {
+  max-width: 18em;
+  height: auto;
+}
+
+#patterns-2 {
+  max-width: 25em;
+  height: auto;
+}
+
+#patterns-3 {
+  max-width: 25em;
+  height: auto;
+}
+
+#patterns-4 {
+  max-width: 25em;
+  height: auto;
+}
+
+#patterns-5 {
+  max-width: 30em;
+  height: auto;
+}
+
+#covering {
+  max-width: 25em;
+  height: auto;
+}
+
+#preparing {
+  max-width: 28em;
+  height: auto;
+}
+
+#glueing {
+  max-width: 28em;
+  height: auto;
+}
+
+
+}
